@@ -1,9 +1,6 @@
 To integrate Git LFS (Large File Storage) into your project and manage large binary files efficiently, follow the steps below. This guide will demonstrate how to add, commit, and push binary files to a repository, ensuring they are tracked by Git LFS correctly. Additionally, it will show how to clone the repository on another machine to verify that the binary files are downloaded correctly.
 
-### README.md
-
-```markdown
-# Git LFS Integration Guide
+###Git LFS Integration Guide
 
 This guide explains how to integrate Git LFS (Large File Storage) into your project to handle large binary files efficiently. It covers how to add, commit, and push binary files to the repository and ensure they are tracked correctly by Git LFS. Additionally, it includes steps to clone the repository on another machine to verify the binary files are downloaded correctly.
 
